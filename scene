@@ -1,0 +1,31 @@
+camera cam1
+{
+   pixeldim 640 480
+   worlddim 8 6
+   viewpoint <4,3,4>
+}
+
+material green
+{
+   diffuse 0 1 0
+   ambient 0 5 0
+}
+
+material purple
+{
+   diffuse 0 1 0
+   ambient 3 0 3
+}
+
+material yellow
+{
+   diffuse 4 4 0
+   ambient 5 4 0
+   specular 1 1 1
+}
+material blue
+{
+   diffuse 4 4 0
+   ambient 0 0 3
+   specular 1 1 1
+}
